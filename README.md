@@ -1,0 +1,2 @@
+# Android-Video-Record
+android上基于ffmpegRecorder的录制bitmap并转化为mp4格式的视频
